@@ -37,6 +37,6 @@ Extensões para o vscode
 
 18. [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons "Clique para ver a extensão!")
 
-19. [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync "Clique para ver a extensão!")
-  -> Shift + Alt + D: baixa as extensões salvas no github
+19. [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync "Clique para ver a extensão!")  
+  -> Shift + Alt + D: baixa as extensões salvas no github  
   -> Shift + Alt + U: Atualiza as extensões salvas no github
