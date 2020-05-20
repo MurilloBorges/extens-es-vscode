@@ -40,3 +40,6 @@ Extensões para o vscode
 19. [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync "Clique para ver a extensão!")  
   -> Shift + Alt + D: baixa as extensões salvas no github  
   -> Shift + Alt + U: Atualiza as extensões salvas no github
+
+Yarn icon  
+  -> yarn config set -- --emoji true
