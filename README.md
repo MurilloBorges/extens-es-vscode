@@ -41,5 +41,9 @@ Extensões para o vscode
   -> Shift + Alt + D: baixa as extensões salvas no github  
   -> Shift + Alt + U: Atualiza as extensões salvas no github
 
+20. [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2 "Clique para ver a extensão!")
+
+21. [Prettier+](https://marketplace.visualstudio.com/items?itemName=svipas.prettier-plus "Clique para ver a extensão!")
+
 Yarn icon  
   -> yarn config set -- --emoji true
